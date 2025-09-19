@@ -27,4 +27,6 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
-          python rag_iso27001.py
+           pip install nbconvert jupyter
+           jupyter nbconvert --to notebook --execute rag_iso27001_colab.ipynb --output output.ipynb 
+        
