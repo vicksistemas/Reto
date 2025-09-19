@@ -1,7 +1,0 @@
-La política para visitantes y usuarios eventuales que acceden a la red o internet corporativa siguiendo ISO 27001 garantiza que el acceso sea seguro y controlado para proteger los activos y la información. Los visitantes deben registrar su ingreso, aceptar las políticas de uso, y usar credenciales temporales con caducidad automática. Sus dispositivos se conectan a una red de invitados segmentada para impedir accesos indebidos a la red interna.
-
-Se permite a visitantes instalar ciertos programas personales, pero deben cumplir requisitos de seguridad establecidos, incluyendo análisis antimalware y limitación de puertos abiertos. En todo momento deben cumplir con políticas de contraseñas, uso responsable de la red y reportar incidentes. El acceso a internet es limitado a servicios esenciales y bloqueado a sitios que comprometan la seguridad o la reputación.
-
-Para usuarios eventuales que requieran acceso temporal a servicios corporativos, se establecen perfiles temporales con permisos mínimos necesarios y supervisión continua de su actividad. Su acceso se da por tiempos predeterminados, sin posibilidad de extender sin autorización y son excluidos automáticamente de la red al finalizar su relación temporal.
-
-Finalmente, esta política se revisa regularmente y se complementa con capacitaciones y campañas de concienciación para que todos los involucrados entiendan la importancia de respetar las normas y asegurar la continuidad del negocio conforme a ISO 27001.
