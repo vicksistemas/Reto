@@ -1,5 +1,0 @@
-Para mantener la seguridad y estabilidad, la instalación de software se regula estrictamente en base a ISO 27001. Los usuarios visitantes no están autorizados para instalar programas personales en equipos corporativos o acceder a fuentes externas para instalación. Los usuarios administrativos sólo utilizan software instalado y aprobado por el área de TI, sin requerir instalaciones especiales.
-
-Los desarrolladores están autorizados para instalar herramientas y entornos de desarrollo necesarios, previo registro y aprobación del área de seguridad, con evaluación de riesgos para evitar vulnerabilidades. Los gerenciales pueden solicitar instalación de aplicaciones adicionales que faciliten su trabajo, siempre dentro de políticas de seguridad y con soporte de TI. Los usuarios móviles sólo pueden instalar apps a través de tiendas oficiales supervisadas y con control de seguridad para móviles.
-
-Todos los programas deben contar con licencias válidas y mecanismos antivirus deben validar integridad antes de su instalación o ejecución para evitar la propagación de malware.

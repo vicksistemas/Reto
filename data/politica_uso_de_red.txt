@@ -1,5 +1,0 @@
-El acceso a la red e internet se rige por políticas alineadas a ISO 27001 para garantizar confidencialidad e integridad. Usuarios visitantes deben conectarse exclusivamente a segmentos de red controlados, con puertos limitados, sin acceso a recursos sensibles, y prohibido el uso de VPN externas o servicios de almacenamiento no autorizados. Usuarios administrativos acceden solo a redes internas sin permisos especiales para navegación o accesos externos.
-
-Desarrolladores cuentan con acceso especial a puertos y servicios para pruebas y desarrollo, bajo supervisión y filtros de tráfico para evitar fugas de datos. Gerenciales pueden acceder a internet con menos restricciones, pero con monitoreo de tráfico y restricción a sitios categorizados de alto riesgo. Usuarios móviles tienen acceso controlado mediante políticas Mobile Device Management (MDM), con filtrado de aplicaciones y bloqueo de conexiones inseguras.
-
-El uso de recursos de red para actividades ilegales, descarga de software inseguro o violaciones al código de conducta están sujetos a revisión disciplinaria y posibles bloqueos.

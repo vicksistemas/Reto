@@ -1,5 +1,0 @@
-Los visitantes y usuarios eventuales que requieren acceso a la red deben cumplir estrictamente con la ISO 27001 para proteger la infraestructura. Estos usuarios sólo pueden usar equipos designados para visitantes y sus dispositivos personales pueden conectarse únicamente tras evaluación previa, debiendo cumplir políticas de antivirus y sistema actualizado. Se les asignan accesos limitados y supervisados, con registro de actividades.
-
-El uso de programas personales está permitido sólo si son necesarios para su trabajo específico y tras autorización de TI, con restricción en la apertura de puertos especiales que deben documentarse y auditarse. Usuarios administrativos y desarrolladores cuentan con autorizaciones diferenciadas basadas en función, mientras gerenciales y móviles cuentan con protocolos de acceso temporal más flexibles pero seguros.
-
-El incumplimiento de estas políticas por visitantes puede causar revocación inmediata del acceso y reporte a seguridad informática.
